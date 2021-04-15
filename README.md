@@ -16,6 +16,7 @@ The following lines can be editted to suite the MySQL, Oracle, or PostgreSQL, th
         'PORT': Port,
     }
 }`
+
 The demo SQL file 'bankingapp.sql' may be used for testing the app.
 
 4. To start the development server, run `python manage.py runserver`, once the development server is started, the app can be accessed ath `localhost:8000`
